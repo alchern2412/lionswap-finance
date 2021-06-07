@@ -6,8 +6,8 @@
     "main.js.map": "/lionswap-finance/static/js/main.ae06b938.chunk.js.map",
     "runtime-main.js": "/lionswap-finance/static/js/runtime-main.51be7f1c.js",
     "runtime-main.js.map": "/lionswap-finance/static/js/runtime-main.51be7f1c.js.map",
-    "static/js/3.2b701485.chunk.js": "/lionswap-finance/static/js/3.2b701485.chunk.js",
-    "static/js/3.2b701485.chunk.js.map": "/lionswap-finance/static/js/3.2b701485.chunk.js.map",
+    "static/js/3.b63dbb8b.chunk.js": "/lionswap-finance/static/js/3.b63dbb8b.chunk.js",
+    "static/js/3.b63dbb8b.chunk.js.map": "/lionswap-finance/static/js/3.b63dbb8b.chunk.js.map",
     "static/js/4.0a02c245.chunk.js": "/lionswap-finance/static/js/4.0a02c245.chunk.js",
     "static/js/4.0a02c245.chunk.js.map": "/lionswap-finance/static/js/4.0a02c245.chunk.js.map",
     "static/css/5.d2596cb8.chunk.css": "/lionswap-finance/static/css/5.d2596cb8.chunk.css",
@@ -46,7 +46,7 @@
     "index.html": "/lionswap-finance/index.html",
     "static/css/5.d2596cb8.chunk.css.map": "/lionswap-finance/static/css/5.d2596cb8.chunk.css.map",
     "static/js/0.6cf16832.chunk.js.LICENSE.txt": "/lionswap-finance/static/js/0.6cf16832.chunk.js.LICENSE.txt",
-    "static/js/3.2b701485.chunk.js.LICENSE.txt": "/lionswap-finance/static/js/3.2b701485.chunk.js.LICENSE.txt",
+    "static/js/3.b63dbb8b.chunk.js.LICENSE.txt": "/lionswap-finance/static/js/3.b63dbb8b.chunk.js.LICENSE.txt",
     "static/js/4.0a02c245.chunk.js.LICENSE.txt": "/lionswap-finance/static/js/4.0a02c245.chunk.js.LICENSE.txt",
     "static/media/all-bunnies.82a075e3.png": "/lionswap-finance/static/media/all-bunnies.82a075e3.png",
     "static/media/cakers-share.861e6e70.png": "/lionswap-finance/static/media/cakers-share.861e6e70.png",
@@ -60,7 +60,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.51be7f1c.js",
-    "static/js/3.2b701485.chunk.js",
+    "static/js/3.b63dbb8b.chunk.js",
     "static/js/main.ae06b938.chunk.js"
   ]
 }
